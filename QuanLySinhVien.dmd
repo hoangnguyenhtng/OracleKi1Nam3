@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="QuanLySinhVien" id="D33BFBA2-A1C8-150A-B5F9-97C088B9AAE5" version="3.5">
+<createdBy>hoang</createdBy>
+<createdTime>2023-11-30 07:25:50 UTC</createdTime>
+<ownerDesignName>QuanLySinhVien</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>D33BFBA2-A1C8-150A-B5F9-97C088B9AAE5</designId>
+</OSDM_Design>
